@@ -1,0 +1,71 @@
+﻿body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+html {
+    background: url('Content/Images/ImgBruno.jpg') no-repeat center center fixed;
+    min-width: 1024px;
+}
+
+h1 {
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+h3 {
+    margin-left: 350px;
+    margin-top: -50px;
+}
+
+#ImageWP {
+    width: 300px;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: -20px;
+    opacity: 0.7;
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+#ImageContact {
+    width: 230px;
+    height: 80px;
+    margin-left: 700px;
+    margin-top: -200px;
+    opacity: 0.7;
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+#ImageResume {
+    width: 230px;
+    height: 80px;
+    margin-left: 700px;
+    opacity: 0.7;
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+#PhotoPerfil {
+    border-radius: 20px;
+    position: fixed;
+}
+
+.contactForm {
+    margin-left: 600px;
+    margin-top: 50px;
+}
+
+.contactInfo {
+    margin-left: 600px;
+}
+
+.contactForm input {
+    width: 100%;
+    clear: both;
+}
