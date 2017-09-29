@@ -22,12 +22,12 @@ namespace Comp229_Assign01 {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// ImageWP control.
+        /// ImageBanner control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Image ImageWP;
+        protected global::System.Web.UI.WebControls.Image ImageBanner;
     }
 }

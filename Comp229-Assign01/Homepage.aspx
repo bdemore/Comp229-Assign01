@@ -10,15 +10,16 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Image id="ImageWP" ImageUrl="Content/Images/web-banner.png" runat="server"
+            <asp:Image id="ImageBanner" ImageUrl="Content/Images/web-banner.png" runat="server"
                 AlternateText="WebPage Banner"/>
+            <%--IMAGE SOURCE http://bizproshop.com/websites/--%>
             <a href="ContactMePage.aspx">
             <img id="ImageContact" src="Content/Images/contact-button1.png" alt="Contact Page Link" />
-              <%--  IMAGE SOURCE https://www.iconfinder.com/icons/167630/email_icon/--%>
+            <%--IMAGE SOURCE https://www.iconfinder.com/icons/167630/email_icon/--%>
             </a>
             <a href="ResumePage.aspx">
             <img id="ImageResume" src="Content/Images/resume-button1.png" alt="Resume Page Link" />
-                <%--IMAGE SOURCE https://icons8.com/icon/32533/set%20as%20resume--%>
+            <%--IMAGE SOURCE https://icons8.com/icon/32533/set%20as%20resume--%>
             </a>
         </div>
     </form>

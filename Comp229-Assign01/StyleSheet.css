@@ -26,12 +26,11 @@ h4 {
     margin-left: 350px;
 }
 
-#ImageWP {
+#ImageBanner {
     width: 850px;
     height: 150px;
     margin-left: 20px;
     margin-top: -20px;
-    opacity: 0.7;
     border: 2px solid;
     border-radius: 20px;
 }
@@ -41,24 +40,19 @@ h4 {
     height: 70px;
     margin-left: 550px;
     margin-top: 400px;
-
 }
 
 #ImageResume {
     width: 150px;
     height: 70px;
-
 }
 
 #PhotoPerfil {
-    border-radius: 20px;
-    position: relative;
-    
+    border-radius: 20px; 
 }
 
 .contactForm {
     margin-left: 600px;
-
 }
 
 .contactInfo {
@@ -77,4 +71,28 @@ h4 {
     margin-left: 50px;
     margin-top: 200px;
 }
+
+.missionSection {
+    border: 2px solid;
+    border-radius: 20px;
+    margin-left: 250px;
+    margin-top: -230px;
+}
+
+.missionSection h4, .bioSection h4, .job1 h4, .job2 h4, .job3 h4 {
+    margin-left: 10px;
+}
+
+.bioSection, .experience, .bio {
+    border: 2px solid;
+    border-radius: 20px;
+    margin-left: 250px;
+}
+
+.job1, .job2, .job3 {
+    border: 2px solid;
+    border-radius: 20px;
+    margin-left: 250px;
+}
+
 
