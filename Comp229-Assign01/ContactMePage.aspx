@@ -13,6 +13,17 @@
             <h1>
                 Contact Me
             </h1>
+            <div class="socialMedia">
+                <a href="http://www.facebook.com">
+                <img id="facebookIcon" src="Content/Images/facebook.png" alt="Facebook Page Link" />
+                </a>
+                <a href="http://www.instagram.com">
+                <img id="instaIcon" src="Content/Images/instagram.png" alt="Instagram Page Link" />
+                </a>
+                <a href="http://www.twitter.com">
+                <img id="twitterIcon" src="Content/Images/twitter.png" alt="Twitter Page Link" />
+                </a>
+            </div>
             <div class="contactInfo">
                 <h2>
                     Contact Information

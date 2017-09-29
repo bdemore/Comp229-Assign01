@@ -11,8 +11,13 @@
     <form id="form1" runat="server">
             <h1>
                 Resume Page
-            </h1>
+            </h1>            
             <img id="PhotoPerfil" src="Content/Images/PhotoPerfil.jpg" alt="Photo Perfil" />  
+            <p>
+                "Never Give Up."
+            </p>
+                
+            
     </form>
 </body>
 </html>

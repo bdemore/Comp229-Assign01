@@ -8,7 +8,7 @@
 }
 
 html {
-    background: url('Content/Images/ImgBruno.jpg') no-repeat center center fixed;
+    background: url('Content/Images/Photo.jpg') no-repeat center center fixed;
     min-width: 1024px;
 }
 
@@ -22,9 +22,13 @@ h3 {
     margin-top: -50px;
 }
 
+h4 {
+    margin-left: 350px;
+}
+
 #ImageWP {
-    width: 300px;
-    height: 100px;
+    width: 850px;
+    height: 150px;
     margin-left: 20px;
     margin-top: -20px;
     opacity: 0.7;
@@ -33,39 +37,44 @@ h3 {
 }
 
 #ImageContact {
-    width: 230px;
-    height: 80px;
-    margin-left: 700px;
-    margin-top: -200px;
-    opacity: 0.7;
-    border: 2px solid;
-    border-radius: 20px;
+    width: 150px;
+    height: 70px;
+    margin-left: 550px;
+    margin-top: 400px;
+
 }
 
 #ImageResume {
-    width: 230px;
-    height: 80px;
-    margin-left: 700px;
-    opacity: 0.7;
-    border: 2px solid;
-    border-radius: 20px;
+    width: 150px;
+    height: 70px;
+
 }
 
 #PhotoPerfil {
     border-radius: 20px;
-    position: fixed;
+    position: relative;
+    
 }
 
 .contactForm {
     margin-left: 600px;
-    margin-top: 50px;
+
 }
 
 .contactInfo {
     margin-left: 600px;
+    margin-top: -300px;
 }
 
 .contactForm input {
     width: 100%;
     clear: both;
 }
+
+#facebookIcon, #instaIcon, #twitterIcon {
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 200px;
+}
+
